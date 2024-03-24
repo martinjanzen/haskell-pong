@@ -1,14 +1,14 @@
-# pong pong pong
+# Pong for Haskell
 
-This is a pong with both gui and console modes.
+The classic Pong game with added Haskell-based GUI.
 
-To run it:
+To run it (ASCII):
 
 ```
 cabal run pong
 ```
 
-or
+or (GUI):
 
 ```
 cabal run pong -- gui
