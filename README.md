@@ -2,13 +2,13 @@
 
 The classic Pong game with added Haskell-based GUI.
 
-To run it (ASCII):
+Run with ASCII environment:
 
 ```
 cabal run pong
 ```
 
-or (GUI):
+Run with GUI environment:
 
 ```
 cabal run pong -- gui
